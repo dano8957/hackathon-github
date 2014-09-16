@@ -3,7 +3,7 @@
 * [Niklas Fejes](https://github.com/nfejes)
 * [Alex Tsankov](https://github.com/antsankov)
 * [Daniel Nolan](https://github.com/dano8957)
-* [name-of-a-team-member](URL to this member's github account)
+* [Marc Simpson](https://github.com/masi8397)
 * [name-of-a-team-member](URL to this member's github account)
 
 # Objective 1. Node.js
@@ -53,9 +53,9 @@
 
 ### Question 1. {{write-the-question}}
 ```
-{{splunk query producing the table or graph below}}
+sourcetype="events3" type="PushEvent" | timechart count by actor.login
 ```
-![screenshot of a data table or a graph or both](image.png?raw=true) 
+![screenshot of a data table or a graph or both](http://imgur.com/OyIrxZn.png) 
 
 {{ write-one-or-two-sentences-to-discuss-the-answer}}
 
