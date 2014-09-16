@@ -3,7 +3,7 @@
 * [Niklas Fejes](https://github.com/nfejes)
 * [Alex Tsankov](https://github.com/antsankov)
 * [name-of-a-team-member](URL to this member's github account)
-* [name-of-a-team-member](URL to this member's github account)
+* [Marc Simpson](https://github.com/masi8397)
 * [name-of-a-team-member](URL to this member's github account)
 
 # Objective 1. Node.js
