@@ -55,7 +55,7 @@
 ```
 sourcetype="events3" type="PushEvent" | timechart count by actor.login
 ```
-![screenshot of a data table or a graph or both](http://imgur.com/OyIrxZn.png) 
+![screenshot of a data table or a graph or both](http://imgur.com/w9ovOoN.png) 
 
 {{ write-one-or-two-sentences-to-discuss-the-answer}}
 
